@@ -304,7 +304,7 @@ body {
 .footer-row-2 a {
     text-decoration: none;
     margin-bottom: 5px;
-    color: hsla(0, 0%, 100%, 0.94);
+    color: white;
 }
 
 .footer-row-2 a:visited {
