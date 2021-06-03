@@ -304,10 +304,11 @@ body {
 .footer-row-2 a {
     text-decoration: none;
     margin-bottom: 5px;
+    color: hsla(0, 0%, 100%, 0.94);
 }
 
 .footer-row-2 a:visited {
-    color: hsla(0, 0%, 100%, 0.94);
+    color: currentColor;
 }
 
 .footer-row-2 * a:hover {
